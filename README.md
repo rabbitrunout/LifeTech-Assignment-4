@@ -1,2 +1,2 @@
-# LifeTech-Assignment-4-
-Company for  a forward-thinking software.
+# LifeTech-Assignment-4
+Company for forward-thinking software.
